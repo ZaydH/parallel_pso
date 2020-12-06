@@ -1,0 +1,6 @@
+task,rosenbrock
+pop,10000
+dim,30
+bound_lo,-30
+bound_hi,30
+lr,1

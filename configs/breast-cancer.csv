@@ -1,0 +1,8 @@
+task,breast-cancer
+data-path,breast-cancer.csv
+pop,10000
+n_iterations,100
+dim,10
+bound_lo,-10
+bound_hi,10
+lr,1

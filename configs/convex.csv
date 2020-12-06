@@ -1,0 +1,6 @@
+task,convex
+pop,500
+dim,500
+bound_lo,-100
+bound_hi,100
+lr,1

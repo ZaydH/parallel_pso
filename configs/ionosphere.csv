@@ -1,0 +1,8 @@
+task,ionosphere
+data-path,ionosphere.csv
+pop,50000
+n_iterations,200
+dim,34
+bound_lo,-25
+bound_hi,25
+lr,1

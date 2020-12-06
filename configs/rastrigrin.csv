@@ -1,0 +1,6 @@
+task,rastrigrin
+pop,500
+dim,30
+bound_lo,-5.12
+bound_hi,5.12
+lr,1

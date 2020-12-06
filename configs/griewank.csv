@@ -1,0 +1,6 @@
+task,griewank
+pop,500
+dim,30
+bound_lo,-600
+bound_hi,600
+lr,1
